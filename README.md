@@ -30,3 +30,4 @@ Nhập Mã: Nhập mã cổ phiếu đơn lẻ (ví dụ: NVDA, FPT) hoặc nhi�
 Chọn Phạm vi: Chọn phạm vi thời gian (ví dụ: 3M, 1Y).
 
 Nhấn "Phân tích": Ứng dụng sẽ tải dữ liệu, tính toán các chỉ báo và cập nhật tất cả các tab.
+<img width="1354" height="612" alt="image" src="https://github.com/user-attachments/assets/e353ae8c-07e1-4b74-8f8c-ad277e21ad9b" />
